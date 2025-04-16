@@ -1,6 +1,6 @@
 # Welcome  
 ## General  
-This folder contains all files for the <https://miklenn.com> website. 
+This repository contains all files for the <https://miklenn.com> website. 
 ## Code
 The code is plain HTML without any server side execution. No user data is logged.   
 The first iteration, published on April 2025, was written in the Atom text editor.    
